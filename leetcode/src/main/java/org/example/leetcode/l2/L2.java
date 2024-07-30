@@ -1,5 +1,7 @@
 package org.example.leetcode.l2;
 
+import org.example.leetcode.ListNode;
+
 /**
  * @description: 第二题 两数相加
  * @question: <a href="https://leetcode.cn/problems/add-two-numbers/">...</a>
