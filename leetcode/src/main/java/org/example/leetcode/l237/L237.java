@@ -5,7 +5,7 @@ import org.example.leetcode.ListNode;
 /**
  * @description: 第L237题-删除链表中的节点
  * @question: <a href="https://leetcode-cn.com/problems/delete-node-in-a-linked-list/">...</a>
- * @answer:
+ * @answer: 该题目的难点是无法获取删除节点的上一个节点，所以直接将下一个节点的值放入到本节点中，然后直接删除下一个节点即可
  */
 public class L237 {
 
