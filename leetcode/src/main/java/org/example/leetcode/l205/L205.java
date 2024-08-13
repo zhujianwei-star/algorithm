@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * @description: 第L205题-同构字符串
  * @question: <a href="https://leetcode-cn.com/problems/isomorphic-strings/">...</a>
- * @answer:
+ * @answer: 将字符串转为01编码，然后比较即可
  */
 public class L205 {
 
