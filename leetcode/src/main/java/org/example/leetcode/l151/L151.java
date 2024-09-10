@@ -1,7 +1,5 @@
 package org.example.leetcode.l151;
 
-import com.sun.tools.javac.util.StringUtils;
-
 /**
  * @description: 第L151题-反转字符串中的单词
  * @question: <a href="https://leetcode-cn.com/problems/reverse-words-in-a-string">...</a>
